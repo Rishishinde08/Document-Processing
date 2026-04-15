@@ -1,0 +1,57 @@
+# =========================
+# Python (Backend)
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+db.sqlite3
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# =========================
+# Node (Frontend)
+# =========================
+node_modules/
+build/
+dist/
+
+# React
+.cache/
+.next/
+out/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# Uploads / Temp files
+# =========================
+uploads/
+tmp/
+*.csv
+*.json
+
+# =========================
+# Redis / Celery
+# =========================
+celerybeat-schedule
