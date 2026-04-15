@@ -49,7 +49,6 @@ Thumbs.db
 uploads/
 tmp/
 *.csv
-*.json
 
 # =========================
 # Redis / Celery
